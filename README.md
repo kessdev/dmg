@@ -1,0 +1,1 @@
+# Data Mapper Generator (DMG)
